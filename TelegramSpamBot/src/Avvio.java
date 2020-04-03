@@ -42,10 +42,7 @@ public class Avvio {
 	 * Create the application.
 	 */
 	public Avvio() {
-		
-		initialize();
-		
-
+	   initialize();
 	}
 
 	/**
